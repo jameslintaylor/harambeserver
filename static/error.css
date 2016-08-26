@@ -1,0 +1,10 @@
+@font-face {
+  font-family: meslo;
+  src: url('MesloLGM-Regular.ttf');
+}
+
+* {
+  background-color: #7c4343;
+  font-family: meslo;
+  color: #dbdbdb;
+}
